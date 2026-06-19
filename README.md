@@ -1,39 +1,90 @@
-# 👋 Hi there, I'm Sachini Tharanga!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sachini%20Liyanage&fontAlign=50&fontAlignY=40&desc=Technical%20Project%20Manager%20%7C%20IT%20Enthusiast&animation=fadeIn" />
+</p>
 
-🎓 I'm currently pursuing a **Higher National Diploma in Information Technology**.  
-💻 A passionate **Full Stack Developer** with a growing interest in **Business Analysis**.  
-🌱 I love building applications using the **MERN Stack** and continuously learning new tools and techniques in the tech world.
+<div align="center">
+
+Passionate about building scalable web applications, leading successful software projects, and bridging the gap between technology and business.
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Higher National Diploma in Information Technology (HND IT)
+
+💼 Currently working as a **Technical Project Manager**
+
+🌱 Started my career as a **Software Engineering Intern**
+
+💻 Full-Stack Developer with hands-on experience in the **MERN Stack**
+
+📊 Interested in **Project Management**, **Business Analysis**, and **Software Quality Assurance**
+
+🚀 Passionate about transforming ideas into real-world software solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge\&logo=youtrack\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+### Project Management & Collaboration
+
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge\&logo=youtrack\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📊 GitHub Contributions
+## 📈 Current Focus
 
-![Sachini's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TotoroMeiX185&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contact Me
-
-✉️ Email: [sachinitharanga2020al@gmail.com](mailto:sachinitharanga2020al@gmail.com)
+* 🚀 Technical Project Management
+* 🌐 Full-Stack Web Development
+* 📊 Business Analysis
+* ✅ Software Quality Assurance
+* 🤖 Process Automation & Productivity Solutions
 
 ---
 
-## ✨ Fun Extras
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=sachinitharanga&style=flat-square&color=blue)
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: Your LinkedIn URL
+* 📧 Email: [sachinitharanga2020al@gmail.com](mailto:your-email@example.com)
 
 ---
 
-_Thanks for visiting! Feel free to check out my repositories and connect with me!_
+<div align="center">
+
+### ✨ "Turning ideas into impactful digital solutions."
+
+![Profile Views](https://komarev.com/ghpvc/?username=TotoroMeiX185\&style=for-the-badge)
+
+</div>
