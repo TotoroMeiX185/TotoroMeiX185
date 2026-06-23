@@ -76,7 +76,7 @@ Passionate about building scalable web applications, leading successful software
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Your LinkedIn URL
+* 💼 LinkedIn: https://www.linkedin.com/in/sachini-liyanage-178321393
 * 📧 Email: [sachinitharanga2020al@gmail.com](mailto:your-email@example.com)
 
 ---
